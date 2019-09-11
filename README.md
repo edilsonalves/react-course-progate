@@ -7,3 +7,5 @@
 ## React I
 
 React is a JavaScript library used to make beautiful, interactive websites. In React Study I, we'll learn about "state", one of the most important parts of React!
+
+[Study 01](./study_01)
